@@ -1,2 +1,2 @@
 # machine-learning-coursera-Ng
-All the assignments of the Ng's course about machine learning in Coursera.
+Todos los ejercicios del curso sobre Machine Learning de Andrew Ng en Coursera.
